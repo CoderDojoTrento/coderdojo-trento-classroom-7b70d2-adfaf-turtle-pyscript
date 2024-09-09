@@ -1,0 +1,8 @@
+{
+    "files": {
+        "{PATH}": "/turtle-pyscript",
+        "{PATH}/turtleps.py" : "turtleps.py"
+      },
+      
+    "packages": []
+}
